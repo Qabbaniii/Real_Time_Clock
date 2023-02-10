@@ -1,0 +1,11 @@
+HAL/SEVEN_SEGMANT/SEVEN_SEG_prog.d HAL/SEVEN_SEGMANT/SEVEN_SEG_prog.o: \
+ ../HAL/SEVEN_SEGMANT/SEVEN_SEG_prog.c \
+ ../HAL/SEVEN_SEGMANT/../../MCAl/DIO/DIO_interface.h \
+ ../HAL/SEVEN_SEGMANT/../../MCAl/DIO/../../Services/STD_TYPES.h \
+ ../HAL/SEVEN_SEGMANT/SEVEN_SEG_config.h
+
+../HAL/SEVEN_SEGMANT/../../MCAl/DIO/DIO_interface.h:
+
+../HAL/SEVEN_SEGMANT/../../MCAl/DIO/../../Services/STD_TYPES.h:
+
+../HAL/SEVEN_SEGMANT/SEVEN_SEG_config.h:
